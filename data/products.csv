@@ -1,0 +1,251 @@
+product_id,product_name,category,subcategory,price,cost,brand,stock_quantity,weight_kg,created_date
+1,Laptop - Variant 1,Electronics,Laptop,482.82,286.3,Brand_1,431,10.52,2020-01-31
+2,Laptop - Variant 2,Electronics,Laptop,443.21,204.8,Brand_10,86,21.75,2021-07-08
+3,Laptop - Variant 3,Electronics,Laptop,652.61,367.08,Brand_41,13,9.18,2020-10-30
+4,Laptop - Variant 4,Electronics,Laptop,290.44,151.9,Brand_23,127,16.81,2020-09-19
+5,Laptop - Variant 5,Electronics,Laptop,377.26,162.05,Brand_22,297,8.39,2020-05-09
+6,Phone - Variant 1,Electronics,Phone,969.82,373.28,Brand_22,219,0.26,2021-05-25
+7,Phone - Variant 2,Electronics,Phone,492.41,253.87,Brand_44,159,23.08,2020-08-09
+8,Phone - Variant 3,Electronics,Phone,239.76,85.06,Brand_27,439,24.66,2021-08-13
+9,Phone - Variant 4,Electronics,Phone,725.93,235.7,Brand_44,421,10.34,2020-01-30
+10,Phone - Variant 5,Electronics,Phone,524.34,302.92,Brand_16,204,14.18,2022-01-08
+11,Tablet - Variant 1,Electronics,Tablet,664.07,416.94,Brand_10,485,24.0,2021-07-30
+12,Tablet - Variant 2,Electronics,Tablet,27.19,18.45,Brand_12,76,1.65,2021-03-30
+13,Tablet - Variant 3,Electronics,Tablet,380.77,165.58,Brand_2,205,2.69,2022-03-02
+14,Tablet - Variant 4,Electronics,Tablet,609.43,288.06,Brand_30,12,22.95,2020-03-09
+15,Tablet - Variant 5,Electronics,Tablet,956.61,546.5,Brand_12,19,1.49,2021-08-21
+16,Headphones - Variant 1,Electronics,Headphones,849.85,340.91,Brand_40,16,11.48,2021-09-05
+17,Headphones - Variant 2,Electronics,Headphones,480.86,175.72,Brand_8,195,4.64,2020-03-16
+18,Headphones - Variant 3,Electronics,Headphones,555.71,209.76,Brand_16,386,17.19,2020-08-24
+19,Headphones - Variant 4,Electronics,Headphones,592.27,328.17,Brand_5,379,14.95,2021-08-14
+20,Headphones - Variant 5,Electronics,Headphones,920.66,564.62,Brand_40,75,2.9,2020-12-11
+21,Speaker - Variant 1,Electronics,Speaker,232.08,114.22,Brand_11,88,23.0,2020-02-13
+22,Speaker - Variant 2,Electronics,Speaker,867.22,571.57,Brand_9,452,3.72,2020-08-26
+23,Speaker - Variant 3,Electronics,Speaker,655.83,313.35,Brand_18,93,11.41,2020-02-25
+24,Speaker - Variant 4,Electronics,Speaker,322.39,176.73,Brand_21,251,18.41,2021-07-02
+25,Speaker - Variant 5,Electronics,Speaker,890.24,548.13,Brand_36,477,3.72,2021-02-13
+26,Monitor - Variant 1,Electronics,Monitor,201.57,73.27,Brand_43,265,20.78,2022-02-04
+27,Monitor - Variant 2,Electronics,Monitor,745.07,509.62,Brand_11,215,24.4,2021-07-20
+28,Monitor - Variant 3,Electronics,Monitor,62.48,26.02,Brand_27,360,10.54,2021-05-30
+29,Monitor - Variant 4,Electronics,Monitor,583.78,207.21,Brand_18,251,10.27,2021-08-04
+30,Monitor - Variant 5,Electronics,Monitor,422.78,243.96,Brand_2,331,10.72,2020-09-28
+31,Keyboard - Variant 1,Electronics,Keyboard,445.55,257.49,Brand_17,469,20.43,2020-12-16
+32,Keyboard - Variant 2,Electronics,Keyboard,185.11,89.67,Brand_29,281,11.7,2020-09-13
+33,Keyboard - Variant 3,Electronics,Keyboard,474.57,246.29,Brand_35,133,0.45,2020-01-04
+34,Keyboard - Variant 4,Electronics,Keyboard,812.35,470.86,Brand_18,213,8.02,2021-04-24
+35,Keyboard - Variant 5,Electronics,Keyboard,463.56,299.93,Brand_28,44,3.64,2021-09-21
+36,Mouse - Variant 1,Electronics,Mouse,518.8,281.53,Brand_10,279,7.73,2021-02-12
+37,Mouse - Variant 2,Electronics,Mouse,527.22,325.94,Brand_9,262,19.94,2020-05-30
+38,Mouse - Variant 3,Electronics,Mouse,894.64,514.24,Brand_5,362,16.13,2021-01-21
+39,Mouse - Variant 4,Electronics,Mouse,264.58,125.68,Brand_1,174,4.98,2021-05-19
+40,Mouse - Variant 5,Electronics,Mouse,83.78,42.42,Brand_28,17,8.43,2022-01-16
+41,Charger - Variant 1,Electronics,Charger,720.05,372.34,Brand_1,406,5.11,2021-12-07
+42,Charger - Variant 2,Electronics,Charger,840.93,467.98,Brand_25,156,24.99,2021-08-14
+43,Charger - Variant 3,Electronics,Charger,839.72,465.53,Brand_10,238,14.61,2020-07-14
+44,Charger - Variant 4,Electronics,Charger,898.58,585.92,Brand_49,390,24.92,2020-05-16
+45,Charger - Variant 5,Electronics,Charger,561.07,249.33,Brand_24,344,17.17,2020-03-26
+46,Cable - Variant 1,Electronics,Cable,840.06,518.08,Brand_6,295,15.14,2021-09-23
+47,Cable - Variant 2,Electronics,Cable,560.79,226.94,Brand_2,267,11.06,2021-12-20
+48,Cable - Variant 3,Electronics,Cable,127.3,38.25,Brand_33,399,18.13,2021-02-13
+49,Cable - Variant 4,Electronics,Cable,491.03,323.77,Brand_24,87,1.08,2021-04-23
+50,Cable - Variant 5,Electronics,Cable,652.37,384.77,Brand_4,241,20.69,2020-02-29
+51,T-Shirt - Variant 1,Clothing,T-Shirt,292.12,113.92,Brand_36,296,9.39,2021-03-29
+52,T-Shirt - Variant 2,Clothing,T-Shirt,601.12,289.26,Brand_10,331,22.81,2021-02-26
+53,T-Shirt - Variant 3,Clothing,T-Shirt,92.4,29.7,Brand_5,46,0.97,2021-08-07
+54,T-Shirt - Variant 4,Clothing,T-Shirt,925.89,296.75,Brand_31,26,20.4,2021-05-23
+55,T-Shirt - Variant 5,Clothing,T-Shirt,559.7,248.98,Brand_47,90,0.39,2020-02-19
+56,Jeans - Variant 1,Clothing,Jeans,157.1,88.93,Brand_37,242,4.17,2022-02-19
+57,Jeans - Variant 2,Clothing,Jeans,930.98,364.81,Brand_44,316,4.47,2020-03-24
+58,Jeans - Variant 3,Clothing,Jeans,21.83,12.44,Brand_40,461,22.15,2021-01-08
+59,Jeans - Variant 4,Clothing,Jeans,905.41,557.94,Brand_31,137,16.25,2021-11-21
+60,Jeans - Variant 5,Clothing,Jeans,695.88,393.48,Brand_22,327,5.83,2021-09-05
+61,Jacket - Variant 1,Clothing,Jacket,428.03,230.28,Brand_48,231,18.73,2020-09-17
+62,Jacket - Variant 2,Clothing,Jacket,833.09,305.58,Brand_10,196,16.61,2021-11-27
+63,Jacket - Variant 3,Clothing,Jacket,619.36,369.64,Brand_43,332,4.23,2020-10-15
+64,Jacket - Variant 4,Clothing,Jacket,92.54,38.28,Brand_23,398,18.0,2021-03-27
+65,Jacket - Variant 5,Clothing,Jacket,298.79,202.12,Brand_44,435,9.22,2020-07-11
+66,Sneakers - Variant 1,Clothing,Sneakers,245.96,166.02,Brand_40,392,5.82,2021-03-30
+67,Sneakers - Variant 2,Clothing,Sneakers,791.51,489.54,Brand_26,379,14.38,2021-12-04
+68,Sneakers - Variant 3,Clothing,Sneakers,611.84,276.38,Brand_8,380,16.93,2021-01-20
+69,Sneakers - Variant 4,Clothing,Sneakers,769.44,232.31,Brand_34,163,8.65,2022-02-24
+70,Sneakers - Variant 5,Clothing,Sneakers,97.51,60.29,Brand_20,306,16.47,2021-01-06
+71,Hat - Variant 1,Clothing,Hat,525.75,287.14,Brand_26,264,12.78,2020-10-08
+72,Hat - Variant 2,Clothing,Hat,280.13,152.65,Brand_33,29,5.36,2020-12-11
+73,Hat - Variant 3,Clothing,Hat,508.27,187.23,Brand_48,23,16.88,2021-03-30
+74,Hat - Variant 4,Clothing,Hat,262.93,113.66,Brand_37,316,14.48,2021-03-23
+75,Hat - Variant 5,Clothing,Hat,217.0,87.53,Brand_49,124,8.0,2021-03-27
+76,Dress - Variant 1,Clothing,Dress,739.26,254.09,Brand_8,46,17.32,2020-02-28
+77,Dress - Variant 2,Clothing,Dress,911.92,462.56,Brand_45,441,1.86,2021-07-01
+78,Dress - Variant 3,Clothing,Dress,257.77,147.18,Brand_33,312,13.89,2022-01-14
+79,Dress - Variant 4,Clothing,Dress,328.28,127.68,Brand_11,39,6.14,2021-08-13
+80,Dress - Variant 5,Clothing,Dress,417.92,208.97,Brand_14,26,20.49,2021-04-09
+81,Shorts - Variant 1,Clothing,Shorts,725.97,275.45,Brand_18,354,23.43,2021-06-28
+82,Shorts - Variant 2,Clothing,Shorts,18.22,11.0,Brand_10,75,16.45,2021-03-04
+83,Shorts - Variant 3,Clothing,Shorts,272.04,119.28,Brand_32,339,23.32,2020-01-09
+84,Shorts - Variant 4,Clothing,Shorts,341.59,147.82,Brand_35,423,4.18,2021-08-11
+85,Shorts - Variant 5,Clothing,Shorts,521.86,341.17,Brand_31,471,19.81,2020-04-14
+86,Sweater - Variant 1,Clothing,Sweater,721.07,256.96,Brand_5,437,18.99,2020-10-15
+87,Sweater - Variant 2,Clothing,Sweater,475.77,272.73,Brand_39,373,13.54,2021-04-02
+88,Sweater - Variant 3,Clothing,Sweater,311.99,94.21,Brand_12,298,6.27,2021-04-11
+89,Sweater - Variant 4,Clothing,Sweater,958.82,472.42,Brand_36,470,6.38,2021-04-30
+90,Sweater - Variant 5,Clothing,Sweater,986.79,643.22,Brand_6,134,10.8,2021-04-14
+91,Boots - Variant 1,Clothing,Boots,191.32,83.11,Brand_4,414,6.86,2020-05-27
+92,Boots - Variant 2,Clothing,Boots,625.27,411.94,Brand_28,228,21.62,2021-03-14
+93,Boots - Variant 3,Clothing,Boots,623.47,312.59,Brand_42,316,11.43,2021-07-08
+94,Boots - Variant 4,Clothing,Boots,529.48,358.08,Brand_22,150,7.04,2021-06-09
+95,Boots - Variant 5,Clothing,Boots,265.39,127.59,Brand_19,494,1.82,2020-10-11
+96,Scarf - Variant 1,Clothing,Scarf,14.22,9.49,Brand_9,369,23.4,2021-12-09
+97,Scarf - Variant 2,Clothing,Scarf,983.87,458.86,Brand_1,353,8.27,2021-09-08
+98,Scarf - Variant 3,Clothing,Scarf,440.6,254.74,Brand_22,339,24.78,2021-12-16
+99,Scarf - Variant 4,Clothing,Scarf,585.6,234.51,Brand_16,264,15.11,2020-04-23
+100,Scarf - Variant 5,Clothing,Scarf,161.65,66.52,Brand_34,146,19.71,2021-05-05
+101,Fiction - Variant 1,Books,Fiction,607.99,285.01,Brand_43,178,10.24,2020-03-12
+102,Fiction - Variant 2,Books,Fiction,981.37,455.19,Brand_26,69,17.66,2021-12-19
+103,Fiction - Variant 3,Books,Fiction,922.37,596.89,Brand_4,494,23.55,2021-04-21
+104,Fiction - Variant 4,Books,Fiction,37.93,17.73,Brand_40,129,13.01,2020-11-19
+105,Fiction - Variant 5,Books,Fiction,968.11,329.99,Brand_3,67,17.69,2021-04-05
+106,Non-Fiction - Variant 1,Books,Non-Fiction,639.3,268.38,Brand_16,27,5.41,2021-03-26
+107,Non-Fiction - Variant 2,Books,Non-Fiction,960.61,355.91,Brand_42,366,18.79,2021-05-18
+108,Non-Fiction - Variant 3,Books,Non-Fiction,76.72,35.72,Brand_42,82,7.18,2021-04-12
+109,Non-Fiction - Variant 4,Books,Non-Fiction,873.47,385.08,Brand_13,441,1.66,2020-04-17
+110,Non-Fiction - Variant 5,Books,Non-Fiction,138.75,45.87,Brand_35,357,0.46,2021-07-11
+111,Science - Variant 1,Books,Science,848.95,444.04,Brand_32,276,18.98,2020-02-18
+112,Science - Variant 2,Books,Science,907.1,423.14,Brand_21,356,22.06,2020-12-21
+113,Science - Variant 3,Books,Science,626.35,315.84,Brand_33,205,9.48,2020-12-28
+114,Science - Variant 4,Books,Science,438.67,255.95,Brand_19,40,13.12,2020-01-30
+115,Science - Variant 5,Books,Science,173.58,111.41,Brand_44,267,4.48,2020-05-22
+116,History - Variant 1,Books,History,85.26,31.42,Brand_43,267,17.65,2021-01-25
+117,History - Variant 2,Books,History,438.45,138.81,Brand_21,427,23.81,2020-10-06
+118,History - Variant 3,Books,History,396.2,265.03,Brand_39,269,19.05,2020-06-28
+119,History - Variant 4,Books,History,541.48,355.33,Brand_45,430,13.36,2020-10-20
+120,History - Variant 5,Books,History,454.51,142.9,Brand_10,22,6.14,2021-11-16
+121,Biography - Variant 1,Books,Biography,228.01,129.92,Brand_40,276,13.93,2021-04-16
+122,Biography - Variant 2,Books,Biography,100.25,59.49,Brand_11,107,18.67,2020-01-18
+123,Biography - Variant 3,Books,Biography,215.9,102.13,Brand_25,267,10.97,2020-10-27
+124,Biography - Variant 4,Books,Biography,135.5,64.63,Brand_48,246,13.67,2020-05-19
+125,Biography - Variant 5,Books,Biography,433.19,223.8,Brand_43,398,8.51,2021-04-27
+126,Mystery - Variant 1,Books,Mystery,152.57,74.02,Brand_25,14,18.09,2020-06-02
+127,Mystery - Variant 2,Books,Mystery,16.22,11.31,Brand_31,229,14.07,2020-10-02
+128,Mystery - Variant 3,Books,Mystery,443.25,147.16,Brand_48,3,10.23,2021-11-12
+129,Mystery - Variant 4,Books,Mystery,541.56,340.94,Brand_18,326,15.87,2022-02-11
+130,Mystery - Variant 5,Books,Mystery,759.17,518.04,Brand_46,188,12.06,2020-12-16
+131,Romance - Variant 1,Books,Romance,891.79,329.42,Brand_42,66,21.48,2021-04-08
+132,Romance - Variant 2,Books,Romance,504.7,295.52,Brand_3,28,6.44,2020-08-06
+133,Romance - Variant 3,Books,Romance,346.25,153.24,Brand_38,240,5.54,2020-05-08
+134,Romance - Variant 4,Books,Romance,778.18,302.13,Brand_41,342,20.64,2020-06-23
+135,Romance - Variant 5,Books,Romance,555.23,347.76,Brand_29,472,22.8,2020-11-15
+136,Thriller - Variant 1,Books,Thriller,712.08,438.26,Brand_3,390,18.2,2020-06-05
+137,Thriller - Variant 2,Books,Thriller,337.75,146.95,Brand_27,266,15.13,2021-12-18
+138,Thriller - Variant 3,Books,Thriller,687.08,475.77,Brand_29,456,22.9,2021-04-14
+139,Thriller - Variant 4,Books,Thriller,652.74,272.37,Brand_7,212,11.97,2021-07-25
+140,Thriller - Variant 5,Books,Thriller,542.05,369.54,Brand_24,403,14.64,2021-10-14
+141,Self-Help - Variant 1,Books,Self-Help,786.49,325.76,Brand_42,235,5.9,2021-02-04
+142,Self-Help - Variant 2,Books,Self-Help,842.98,585.54,Brand_22,194,15.26,2020-10-31
+143,Self-Help - Variant 3,Books,Self-Help,964.26,396.71,Brand_43,474,22.45,2022-02-03
+144,Self-Help - Variant 4,Books,Self-Help,674.41,337.06,Brand_15,106,4.77,2020-07-01
+145,Self-Help - Variant 5,Books,Self-Help,627.35,205.91,Brand_45,83,7.16,2021-09-08
+146,Technical - Variant 1,Books,Technical,336.98,173.16,Brand_45,224,0.82,2021-11-06
+147,Technical - Variant 2,Books,Technical,850.51,558.33,Brand_16,346,15.41,2020-11-16
+148,Technical - Variant 3,Books,Technical,586.85,315.21,Brand_18,490,4.08,2020-10-08
+149,Technical - Variant 4,Books,Technical,41.45,19.27,Brand_41,284,14.91,2020-07-30
+150,Technical - Variant 5,Books,Technical,68.56,24.1,Brand_46,24,5.71,2020-09-07
+151,Lamp - Variant 1,Home,Lamp,580.15,180.76,Brand_8,123,18.06,2021-05-31
+152,Lamp - Variant 2,Home,Lamp,503.8,325.89,Brand_25,73,13.65,2020-09-10
+153,Lamp - Variant 3,Home,Lamp,362.29,188.35,Brand_4,164,22.29,2021-07-15
+154,Lamp - Variant 4,Home,Lamp,777.3,256.73,Brand_35,344,0.52,2020-04-29
+155,Lamp - Variant 5,Home,Lamp,372.31,144.23,Brand_30,143,20.96,2020-07-21
+156,Chair - Variant 1,Home,Chair,332.81,160.86,Brand_9,325,16.43,2021-05-17
+157,Chair - Variant 2,Home,Chair,174.03,105.6,Brand_5,163,23.16,2021-01-09
+158,Chair - Variant 3,Home,Chair,612.06,345.21,Brand_24,236,17.45,2021-08-18
+159,Chair - Variant 4,Home,Chair,671.1,280.74,Brand_32,174,14.25,2021-09-18
+160,Chair - Variant 5,Home,Chair,574.33,396.58,Brand_2,456,8.63,2021-10-26
+161,Table - Variant 1,Home,Table,247.58,136.58,Brand_9,288,17.78,2020-03-25
+162,Table - Variant 2,Home,Table,448.67,188.51,Brand_24,448,22.26,2020-10-20
+163,Table - Variant 3,Home,Table,898.58,470.55,Brand_40,176,23.56,2021-12-07
+164,Table - Variant 4,Home,Table,319.8,190.48,Brand_43,459,9.24,2020-03-04
+165,Table - Variant 5,Home,Table,942.97,620.18,Brand_50,271,16.17,2021-05-27
+166,Rug - Variant 1,Home,Rug,172.38,104.07,Brand_26,332,7.9,2020-03-09
+167,Rug - Variant 2,Home,Rug,614.15,358.6,Brand_6,153,20.82,2021-01-18
+168,Rug - Variant 3,Home,Rug,496.5,290.06,Brand_21,76,1.6,2020-07-28
+169,Rug - Variant 4,Home,Rug,49.95,31.1,Brand_9,242,15.8,2022-02-22
+170,Rug - Variant 5,Home,Rug,626.72,253.72,Brand_13,13,12.87,2022-03-04
+171,Curtains - Variant 1,Home,Curtains,551.45,231.65,Brand_4,96,20.58,2021-01-06
+172,Curtains - Variant 2,Home,Curtains,686.36,272.34,Brand_47,479,2.38,2020-06-21
+173,Curtains - Variant 3,Home,Curtains,740.44,306.4,Brand_19,4,18.45,2020-06-26
+174,Curtains - Variant 4,Home,Curtains,586.91,410.53,Brand_28,119,7.31,2020-01-23
+175,Curtains - Variant 5,Home,Curtains,580.11,194.97,Brand_46,45,20.59,2020-02-09
+176,Pillow - Variant 1,Home,Pillow,368.07,232.69,Brand_11,181,12.01,2020-11-20
+177,Pillow - Variant 2,Home,Pillow,587.15,190.5,Brand_2,144,23.13,2021-05-04
+178,Pillow - Variant 3,Home,Pillow,611.69,245.38,Brand_9,409,22.78,2020-08-30
+179,Pillow - Variant 4,Home,Pillow,905.19,389.2,Brand_27,4,2.25,2021-08-31
+180,Pillow - Variant 5,Home,Pillow,96.08,65.97,Brand_8,104,20.02,2022-01-28
+181,Mirror - Variant 1,Home,Mirror,963.59,665.8,Brand_17,410,12.61,2021-01-10
+182,Mirror - Variant 2,Home,Mirror,478.25,182.14,Brand_39,392,17.17,2021-03-18
+183,Mirror - Variant 3,Home,Mirror,694.98,456.6,Brand_28,279,10.46,2020-07-09
+184,Mirror - Variant 4,Home,Mirror,498.62,207.5,Brand_9,59,19.22,2020-06-03
+185,Mirror - Variant 5,Home,Mirror,35.65,13.05,Brand_6,452,17.43,2020-07-27
+186,Shelf - Variant 1,Home,Shelf,507.47,353.99,Brand_3,47,7.32,2020-11-08
+187,Shelf - Variant 2,Home,Shelf,564.87,206.24,Brand_34,486,15.1,2021-07-23
+188,Shelf - Variant 3,Home,Shelf,549.58,281.01,Brand_5,296,9.56,2021-02-26
+189,Shelf - Variant 4,Home,Shelf,308.99,137.25,Brand_13,59,20.63,2020-04-20
+190,Shelf - Variant 5,Home,Shelf,679.33,439.9,Brand_3,262,3.94,2021-11-17
+191,Clock - Variant 1,Home,Clock,224.78,96.29,Brand_36,372,20.43,2020-07-30
+192,Clock - Variant 2,Home,Clock,103.15,70.52,Brand_15,389,10.83,2021-10-03
+193,Clock - Variant 3,Home,Clock,404.7,130.12,Brand_20,498,23.15,2021-12-13
+194,Clock - Variant 4,Home,Clock,990.6,658.26,Brand_6,5,21.47,2020-08-10
+195,Clock - Variant 5,Home,Clock,693.86,458.48,Brand_6,316,2.97,2021-06-02
+196,Vase - Variant 1,Home,Vase,795.24,390.98,Brand_3,164,20.35,2020-01-31
+197,Vase - Variant 2,Home,Vase,120.88,71.19,Brand_11,11,19.11,2020-09-11
+198,Vase - Variant 3,Home,Vase,279.7,173.3,Brand_38,188,10.8,2021-05-19
+199,Vase - Variant 4,Home,Vase,85.84,56.46,Brand_31,394,9.83,2020-02-29
+200,Vase - Variant 5,Home,Vase,828.1,412.7,Brand_23,384,17.61,2021-01-01
+201,Football - Variant 1,Sports,Football,710.4,398.68,Brand_10,115,1.97,2021-01-21
+202,Football - Variant 2,Sports,Football,758.33,290.89,Brand_26,13,20.9,2021-11-09
+203,Football - Variant 3,Sports,Football,502.48,279.88,Brand_47,39,2.41,2021-11-18
+204,Football - Variant 4,Sports,Football,746.9,453.87,Brand_21,394,22.23,2022-02-12
+205,Football - Variant 5,Sports,Football,445.09,284.3,Brand_2,488,4.78,2021-08-10
+206,Basketball - Variant 1,Sports,Basketball,615.92,396.58,Brand_14,30,10.67,2021-04-17
+207,Basketball - Variant 2,Sports,Basketball,32.47,14.23,Brand_39,143,10.12,2021-09-03
+208,Basketball - Variant 3,Sports,Basketball,864.03,593.71,Brand_26,351,15.15,2022-01-02
+209,Basketball - Variant 4,Sports,Basketball,145.55,88.25,Brand_14,353,11.58,2020-01-30
+210,Basketball - Variant 5,Sports,Basketball,498.21,297.37,Brand_21,267,20.49,2022-03-11
+211,Tennis Racket - Variant 1,Sports,Tennis Racket,36.15,18.01,Brand_5,140,16.43,2021-07-26
+212,Tennis Racket - Variant 2,Sports,Tennis Racket,426.64,170.59,Brand_14,152,5.47,2020-02-01
+213,Tennis Racket - Variant 3,Sports,Tennis Racket,801.08,370.49,Brand_35,398,12.32,2020-10-19
+214,Tennis Racket - Variant 4,Sports,Tennis Racket,882.86,456.16,Brand_34,282,4.9,2021-10-28
+215,Tennis Racket - Variant 5,Sports,Tennis Racket,179.38,87.4,Brand_39,374,0.23,2021-08-14
+216,Yoga Mat - Variant 1,Sports,Yoga Mat,497.95,177.7,Brand_21,467,13.59,2021-12-10
+217,Yoga Mat - Variant 2,Sports,Yoga Mat,149.95,67.41,Brand_22,380,6.93,2020-11-19
+218,Yoga Mat - Variant 3,Sports,Yoga Mat,998.94,344.66,Brand_40,393,2.95,2021-08-12
+219,Yoga Mat - Variant 4,Sports,Yoga Mat,955.26,585.28,Brand_14,470,7.84,2020-06-18
+220,Yoga Mat - Variant 5,Sports,Yoga Mat,780.49,307.58,Brand_32,277,14.06,2020-07-30
+221,Dumbbells - Variant 1,Sports,Dumbbells,552.32,273.74,Brand_26,449,14.11,2021-10-12
+222,Dumbbells - Variant 2,Sports,Dumbbells,200.57,136.62,Brand_35,8,0.91,2021-12-12
+223,Dumbbells - Variant 3,Sports,Dumbbells,243.02,97.73,Brand_24,265,7.85,2021-03-07
+224,Dumbbells - Variant 4,Sports,Dumbbells,899.59,368.28,Brand_28,377,12.04,2021-12-29
+225,Dumbbells - Variant 5,Sports,Dumbbells,273.08,124.84,Brand_32,392,2.3,2020-02-09
+226,Running Shoes - Variant 1,Sports,Running Shoes,406.31,139.06,Brand_22,176,22.27,2021-08-11
+227,Running Shoes - Variant 2,Sports,Running Shoes,447.83,205.94,Brand_8,133,9.02,2020-11-05
+228,Running Shoes - Variant 3,Sports,Running Shoes,14.81,5.06,Brand_48,397,6.81,2020-03-22
+229,Running Shoes - Variant 4,Sports,Running Shoes,376.16,139.67,Brand_8,361,7.86,2020-08-07
+230,Running Shoes - Variant 5,Sports,Running Shoes,706.01,463.6,Brand_5,212,13.52,2020-05-01
+231,Gym Bag - Variant 1,Sports,Gym Bag,110.95,50.45,Brand_2,440,5.04,2021-01-19
+232,Gym Bag - Variant 2,Sports,Gym Bag,85.36,43.24,Brand_11,204,18.74,2020-01-23
+233,Gym Bag - Variant 3,Sports,Gym Bag,784.86,342.73,Brand_46,322,6.81,2020-12-25
+234,Gym Bag - Variant 4,Sports,Gym Bag,910.66,337.11,Brand_26,256,24.25,2021-01-23
+235,Gym Bag - Variant 5,Sports,Gym Bag,511.48,205.72,Brand_50,497,21.16,2020-08-25
+236,Water Bottle - Variant 1,Sports,Water Bottle,504.82,169.52,Brand_18,413,0.78,2020-10-24
+237,Water Bottle - Variant 2,Sports,Water Bottle,878.5,501.33,Brand_41,351,7.94,2020-12-12
+238,Water Bottle - Variant 3,Sports,Water Bottle,849.11,375.03,Brand_27,403,10.66,2020-01-10
+239,Water Bottle - Variant 4,Sports,Water Bottle,238.55,72.23,Brand_6,47,15.06,2021-02-27
+240,Water Bottle - Variant 5,Sports,Water Bottle,647.08,229.76,Brand_32,397,3.83,2020-08-13
+241,Resistance Bands - Variant 1,Sports,Resistance Bands,968.98,436.59,Brand_38,241,22.69,2021-12-04
+242,Resistance Bands - Variant 2,Sports,Resistance Bands,134.44,45.66,Brand_47,494,19.17,2022-01-31
+243,Resistance Bands - Variant 3,Sports,Resistance Bands,873.55,334.63,Brand_34,118,13.42,2021-11-04
+244,Resistance Bands - Variant 4,Sports,Resistance Bands,788.23,253.92,Brand_38,166,20.96,2021-10-08
+245,Resistance Bands - Variant 5,Sports,Resistance Bands,456.46,315.84,Brand_38,99,6.54,2022-03-10
+246,Jump Rope - Variant 1,Sports,Jump Rope,718.96,380.64,Brand_27,349,22.98,2021-01-04
+247,Jump Rope - Variant 2,Sports,Jump Rope,42.8,14.78,Brand_13,210,20.11,2020-09-22
+248,Jump Rope - Variant 3,Sports,Jump Rope,857.56,515.78,Brand_2,123,6.95,2021-06-24
+249,Jump Rope - Variant 4,Sports,Jump Rope,632.07,331.7,Brand_13,446,18.66,2021-04-30
+250,Jump Rope - Variant 5,Sports,Jump Rope,814.81,255.5,Brand_45,215,4.4,2021-05-13
